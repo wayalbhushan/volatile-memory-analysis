@@ -19,25 +19,25 @@ Volatile memory forensics, also known as memory forensics, focuses on analyzing 
   
 - [Malware_detect.py](https://github.com/wayalbhushan/volatile-memory-analysis/blob/main/Malware_Detect.py): Scans running processes for known malware names and flags suspicious activities.
 ## Steps to Simulate
-a.Clone the Repository: Clone this repository to your local machine:
-
-git clone https://github.com/wayalbhushan/volatile-memory-analysis
-
-Run the Scripts Using PowerShell: a. Open PowerShell and navigate to the project directory:
-
+Clone the Repository: Clone this repository to your local machine:
 ```bash
+git clone https://github.com/wayalbhushan/volatile-memory-analysis
+```
+Run the Scripts Using PowerShell:
+a. Open PowerShell and navigate to the project directory:
+```
 cd path\to\Volatile_Memory_Forensics
-
+```
 b. Execute the malware script:
-
-powershell
+```
 python malware.py
+```
 This simulates malware by printing a message, deleting itself, and continuing to run in memory.
 
 c. Run the detection script:
-
-powershell
-python Malware_detect.py
+```
+python Malware_Detect.py
+```
 The detection script will:
 
 List all running processes on the system.
