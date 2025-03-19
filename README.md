@@ -1,6 +1,6 @@
 # Volatile Memory Forensics Exploring the critical role of analyzing system RAM in modern digital investigations.
 
-##About the Project
+# About the Project
 Volatile memory forensics, also known as memory forensics, focuses on analyzing data stored in a computer’s RAM to uncover evidence of malicious activities. This project includes:
 
 A malware simulation (malware.py) that showcases how fileless malware can persist in memory.
