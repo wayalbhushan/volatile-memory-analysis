@@ -3,9 +3,9 @@
 ## About the Project
 Volatile memory forensics, also known as memory forensics, focuses on analyzing data stored in a computer’s RAM to uncover evidence of malicious activities.
 ## Why Volatile Memory Forensics?
-Volatile memory forensics is a vital part of cybersecurity and digital investigations:
 
-Detecting Elusive Threats: Many modern attacks, such as fileless malware, exist solely in memory, leaving no disk traces.
+- **Volatile memory forensics is a vital part of cybersecurity and digital investigations:
+- **Detecting Elusive Threats: Many modern attacks, such as fileless malware, exist solely in memory, leaving no disk traces.
 
 Understanding System Behavior: Memory snapshots reveal active processes, network connections, and more, offering a glimpse of a system’s real-time state.
 
