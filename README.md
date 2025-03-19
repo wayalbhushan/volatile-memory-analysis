@@ -13,7 +13,9 @@ Volatile memory forensics, also known as memory forensics, focuses on analyzing 
 
 - Building Forensic Timelines: Analyzing memory helps reconstruct sequences of events, shedding light on the scope and impact of attacks.
 
-  ## Files Included
-- `malware.py`: to simulate a malware attack.
-- `Malware_detect.py` to detect and analyze the simulated malware
+## Files
+
+- [malware.py](https://github.com/wayalbhushan/volatile-memory-analysis/blob/main/malware.py): Simulates a malware script that deletes itself after execution but remains in memory.
+-[Malware_detect.py](https://github.com/wayalbhushan/volatile-memory-analysis/blob/main/Malware_Detect.py): Scans running processes for known malware names and flags suspicious activities.
+
 
