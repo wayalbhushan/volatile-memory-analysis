@@ -21,9 +21,10 @@ Volatile memory forensics, also known as memory forensics, focuses on analyzing 
 ## Steps to Simulate
 Clone the Repository: Clone this repository to your local machine:
 ```bash
-git clone https://github.com/wayalbhushan/volatile-memory-analysis
+git clone https://github.com/wayalbhushan/volatile-memory-analysis.git
 ```
 Run the Scripts Using PowerShell:
+
 a. Open PowerShell and navigate to the project directory:
 ```
 cd path\to\Volatile_Memory_Forensics
